@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemy1()
+comment0.text=\n\ Builder\ Enemy1\ class.\ StepsY\ stepsX\ and\ the\ variables\ used\ for\ the\ movement\ of\ the\ enemy\ are\ initialized.\n\ \n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Enemy1\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\n\ Move\ to\ Enemy1\ zigzag\n
+comment3.params=
+comment3.target=void\ bounce()
+comment3.text=\n\ Touching\ an\ edge\ either\ upper\ or\ lower\ direction\ is\ reversed.\n
+comment4.params=
+comment4.target=void\ attack()
+numComments=5

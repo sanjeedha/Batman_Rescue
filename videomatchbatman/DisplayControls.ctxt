@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DisplayControls()
+comment1.params=
+comment1.target=HowToPlay\ getHowToPlay()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ click()
+comment4.params=newCommand
+comment4.target=void\ setCommand(ButtonCommand)
+numComments=5

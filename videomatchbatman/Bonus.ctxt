@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Bonus()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Bonus\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ touchPlayer()
+comment2.text=\n\ Check\ if\ player\ touched\ bonus\n
+comment3.params=i
+comment3.target=void\ bonus(Batman)
+comment4.params=
+comment4.target=void\ move()
+comment4.text=\n\ Depending\ on\ the\ direction\ (dir)\ the\ figure\ moves.\n
+comment5.params=
+comment5.target=void\ touchBorder()
+comment5.text=\n\ Touching\ the\ edge\ of\ the\ circle\ bounces.\n
+numComments=6
